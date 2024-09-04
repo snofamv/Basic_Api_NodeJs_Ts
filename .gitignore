@@ -1,0 +1,14 @@
+# Ignorar node_modules
+node_modules/
+# Ignorar archivos de entorno
+.env
+# Ignorar directorio de compilación (por ejemplo, para TypeScript)
+dist/
+
+# Ignorar archivos de configuraciones del editor
+.vscode/
+.idea/
+
+# Ignorar archivos generados por el sistema operativo o herramientas
+*.bak
+*.tmp
